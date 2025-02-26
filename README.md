@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tal</h1>
-<h3 align="center">A passionate Fullstack Developer</h3>
 
 - 🔭 Previously worked on [Abilisense Platform](https://www.abilisense.com/)
 - 🌱 I’m currently studying at **Saxion university of applied sciences**
